@@ -1,3 +1,4 @@
+#To find prime factors
 def prime(n):
     div = 0
     for i in range(2,n):
