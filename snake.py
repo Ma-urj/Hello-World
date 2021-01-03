@@ -1,3 +1,4 @@
+#Guided project to learn how pygame works and to create the iconic snake game
 #Library for game functions
 import pygame
 #Library for time
