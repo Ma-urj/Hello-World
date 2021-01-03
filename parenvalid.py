@@ -1,3 +1,4 @@
+#To check if Parenthese sequence is valid
 class parenthese:
     def is_valid(self, str1):
         pchar = {"(": ")", "{": "}", "[": "]"}
