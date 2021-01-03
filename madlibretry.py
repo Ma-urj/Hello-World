@@ -1,3 +1,4 @@
+#Fun program to play madlibs
 import random
 
 def compphrase(phrase, order):
