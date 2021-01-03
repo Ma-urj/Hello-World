@@ -1,3 +1,4 @@
+#To calculate pi to nth digit
 nume = 22
 deno = 7
 ans = ""
