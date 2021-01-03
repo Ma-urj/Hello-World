@@ -1,3 +1,4 @@
+#To check if given number is happy
 def sqadd(n,ln):
     nsum = 0
     while ln >= 0:
