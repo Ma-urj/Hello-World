@@ -1,3 +1,4 @@
+#To Display the sequence or final number in a fibonacci series
 def sfib(n):
     counter = 0
     if n<0:
