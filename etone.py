@@ -1,3 +1,4 @@
+#Calculates e to the nth precision.
 n = 10
 p = int(input("Enter precision of e: "))
 x = 1
