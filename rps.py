@@ -1,3 +1,4 @@
+#Game of Rock Paper Scissors
 import random
 print("Hello and welcome to a game of rock paper scissors. The rules are simple.\n Your type your option and try to win against COM.")
 choices = {"rock":0,"paper":1,"scissors":2}
